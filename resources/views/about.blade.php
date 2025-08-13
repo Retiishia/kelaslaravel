@@ -8,10 +8,8 @@
 </head>
 <body>
     <a href="/">Home</a>
-    <a href="/about">About</a>
     <a href="/contact">Contact</a>
     <a href="/blog">Blog</a>
-    <a href="/artikel">Artikel</a>
     <h1>Halaman About</h1>
 
     <h3>Owner: {{ $name }}</h3>

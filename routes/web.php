@@ -14,9 +14,6 @@ Route::get('/blog', function () {
     return view('blog');
 });
 
-Route::get('/artikel', function () {
-    return view('artikel');
-});
 
 Route::get('/contact', function () {
     return view('contact');

@@ -8,7 +8,6 @@
 <body>
     <a href="/">Home</a>
     <a href="/about">About</a>
-    <a href="/artikel">Artikel</a>
     <a href="/blog">Blog</a>
     <h1>Halaman Contact</h1>
     <p>Ini adalah halaman kontak.</p>
