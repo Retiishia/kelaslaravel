@@ -7,20 +7,17 @@
 </head>
 <body>
     <a href="/">Home</a>
-    <a href="/about">About</a>
     <a href="/blog">Blog</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
     <h1>Halaman Contact</h1>
-    <p>Ini adalah halaman kontak.</p>
-
-    <form action="/contact" method="POST">
-        @csrf
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-        <br>
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-        <br>
-        <button type="submit">Submit</button>
-    </form>
+    <ul>
+        <li>
+            <a href="https://www.instagram.com/farhana.ziz98/">Instagram</a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/in/farhanaziiz">LinkedIn</a>
+        </li>
+    </ul>
 </body>
 </html>
